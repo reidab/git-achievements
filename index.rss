@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Reid Beels's Git Achievements</title>
+<item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 105 times with git add -p.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
-<item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
